@@ -1,0 +1,23 @@
+How To Resolve the Package R Does Not Exist Error? Click Build —> Clean Project or Build —> Rebuild Project in the top menu bar of the Android Studio. This will let the Android Studio regenerate R. java again.Aug 15, 2018
+
+
+
+
+
+Disconnect all devices connected to System/Close all emulators running on System.
+Turn Off Instant Run feature from settings.
+Perform a clean build.
+Turn ON Instant Run feature from settings.
+Perform a clean build.
+Connect your device/start your Emulator and ensure it is online.
+
+
+
+
+
+NullPointerException is a RuntimeException . In Java, a special null value can be assigned to an object reference. NullPointerException is thrown when an application attempts to use an object reference that has the null value. ... If the reference type is an array type, accessing or modifying the slots of a null reference.
+
+
+
+
+
